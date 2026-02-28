@@ -11,7 +11,7 @@ Foody has been completely enhanced with a modern, Zomato-like design and user ex
 - **Enhanced Typography**: Inter font family for better readability
 - **Card-based Layout**: Beautiful food item cards with hover effects and animations
 - **Responsive Design**: Optimized for mobile, tablet, and desktop devices
-- **Smooth Animations**: Hover effects, transitions, and micro-interactions
+- **Smooth Animations**: Hover effects,  transitions, and micro-interactions
 
 ### 🍽️ Enhanced Components
 
